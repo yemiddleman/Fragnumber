@@ -1,4 +1,4 @@
-# meta banner https://x0.at/LdPq.jpg
+# meta banner: https://x0.at/LdPq.jpg
 # meta developer: @boostpayc
 # scope: heroku_min 1.6.2
 
